@@ -1,1 +1,0 @@
-# anceega-delete-account
